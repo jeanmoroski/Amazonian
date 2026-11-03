@@ -8,7 +8,7 @@ Cúpula de luminária impressa em 3D, com parede única e padrão de nós em ner
 
 | Arquivo | O que é |
 |---|---|
-| `amazonian_fase_2_mesa22x22x22cm_PLA_160g.gcode` | G-code pronto da cúpula, para impressoras com mesa de pelo menos 22 × 22 × 22 cm |
+| `amazonian_fase_2_mesa22x22x22cm_PLA_130g.gcode` | G-code pronto da cúpula, para impressoras com mesa de pelo menos 22 × 22 × 22 cm |
 | `README.md` | Este arquivo |
 | `LICENSE.md` | Licença de uso |
 
@@ -20,7 +20,7 @@ Em breve: o gerador de G-code (`.ghx`), a superfície de entrada (`.3dm`), a pra
 - **Abertura para o LED:** encaixe de pressão para o LED kit 001
 - **Parede:** única, com cerca de 0,85 mm, em camadas de 0,5 mm
 - **Material:** PLA de 1,75 mm, de preferência branco ou natural
-- **Impressão:** cerca de 3 h 15 min
+- **Impressão:** cerca de 3 h 15 min e 130 g de PLA
 
 ## Para imprimir
 
